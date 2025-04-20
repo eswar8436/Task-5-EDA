@@ -30,5 +30,4 @@ To perform Exploratory Data Analysis (EDA) on the Titanic dataset using Python l
 
 ##  Deliverables:
 - `Task5_EDA_Titanic.ipynb` – Complete code and visuals
-- `Task5_EDA_Report.pdf` – EDA Summary Report with explanations
 - `README.md` – This file
